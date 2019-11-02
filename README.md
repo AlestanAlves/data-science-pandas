@@ -11,7 +11,7 @@ jupyter notebook (abrir jupyter)
 spyder (abrir spyder)
 ```
 
-# Comandos importantes no Linux
+## Comandos importantes no Linux
 
 ```
 sudo apt-get update
